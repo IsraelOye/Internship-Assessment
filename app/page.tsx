@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { ChevronDown, Dot, Folder, House, PencilRuler, PenOff, TowerControl, Video } from 'lucide-react';
+import { Dot, } from 'lucide-react';
 import { AiFillPicture } from 'react-icons/ai';
 import { FaFolder, FaPencilRuler } from "react-icons/fa";
 import { GiWatchtower } from 'react-icons/gi';
